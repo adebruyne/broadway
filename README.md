@@ -1,24 +1,6 @@
-# README
+App 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Broadway App ***INCOMPLETE***
+  -Because this was a free Udemy course, and the version of Rails is very old, many of the gems he uses are either outdated or break the code. Instead of debugging and switching versions of rails, I'm moving on and will mark this as a work in progress.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+8 Beautiful Ruby on Rails Apps in 30 Days & TDD
